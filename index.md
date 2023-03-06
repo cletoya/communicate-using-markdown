@@ -11,3 +11,6 @@
 $ git init
 Initialized a gitgub pages template in https://github.com/skills/github-pages.git
 ````
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
